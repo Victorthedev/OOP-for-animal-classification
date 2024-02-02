@@ -1,1 +1,1 @@
-# OOP-for-animale-classification
+# OOP-for-animal-classification
